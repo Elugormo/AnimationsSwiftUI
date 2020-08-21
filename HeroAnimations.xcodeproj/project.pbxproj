@@ -13,6 +13,19 @@
 		B2803D7924EF916500CDC54E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2803D7824EF916500CDC54E /* Preview Assets.xcassets */; };
 		B2803D8424EF916600CDC54E /* HeroAnimationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2803D8324EF916600CDC54E /* HeroAnimationsTests.swift */; };
 		B2803D8F24EF916600CDC54E /* HeroAnimationsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2803D8E24EF916600CDC54E /* HeroAnimationsUITests.swift */; };
+		B2803D9D24EF918C00CDC54E /* DataItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2803D9C24EF918C00CDC54E /* DataItems.swift */; };
+		B2803DA024EF9B1600CDC54E /* Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2803D9F24EF9B1600CDC54E /* Animations.swift */; };
+		B2803DA224EF9BEF00CDC54E /* CGSize+Random.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2803DA124EF9BEF00CDC54E /* CGSize+Random.swift */; };
+		B2803DA424EF9E1B00CDC54E /* EnvironmentValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2803DA324EF9E1B00CDC54E /* EnvironmentValues.swift */; };
+		B2803DA724EFA08300CDC54E /* AnimalImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2803DA624EFA08300CDC54E /* AnimalImage.swift */; };
+		B2803DA924EFA10E00CDC54E /* RectangleToCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2803DA824EFA10E00CDC54E /* RectangleToCircle.swift */; };
+		B2803DAB24EFA1DC00CDC54E /* StarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2803DAA24EFA1DC00CDC54E /* StarView.swift */; };
+		B2803DAF24EFA23B00CDC54E /* BlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2803DAE24EFA23B00CDC54E /* BlurView.swift */; };
+		B2803DB124EFA28900CDC54E /* VisualEffectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2803DB024EFA28900CDC54E /* VisualEffectView.swift */; };
+		B2803DB324EFA36900CDC54E /* TitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2803DB224EFA36900CDC54E /* TitleView.swift */; };
+		B2803DB524EFA45B00CDC54E /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2803DB424EFA45B00CDC54E /* ModalView.swift */; };
+		B2803DB724EFA93100CDC54E /* FavoriteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2803DB624EFA93100CDC54E /* FavoriteView.swift */; };
+		B2803DB924EFB09F00CDC54E /* Wildlife.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2803DB824EFB09F00CDC54E /* Wildlife.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +58,19 @@
 		B2803D8A24EF916600CDC54E /* HeroAnimationsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HeroAnimationsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2803D8E24EF916600CDC54E /* HeroAnimationsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroAnimationsUITests.swift; sourceTree = "<group>"; };
 		B2803D9024EF916600CDC54E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B2803D9C24EF918C00CDC54E /* DataItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataItems.swift; sourceTree = "<group>"; };
+		B2803D9F24EF9B1600CDC54E /* Animations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animations.swift; sourceTree = "<group>"; };
+		B2803DA124EF9BEF00CDC54E /* CGSize+Random.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGSize+Random.swift"; sourceTree = "<group>"; };
+		B2803DA324EF9E1B00CDC54E /* EnvironmentValues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentValues.swift; sourceTree = "<group>"; };
+		B2803DA624EFA08300CDC54E /* AnimalImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalImage.swift; sourceTree = "<group>"; };
+		B2803DA824EFA10E00CDC54E /* RectangleToCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleToCircle.swift; sourceTree = "<group>"; };
+		B2803DAA24EFA1DC00CDC54E /* StarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarView.swift; sourceTree = "<group>"; };
+		B2803DAE24EFA23B00CDC54E /* BlurView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurView.swift; sourceTree = "<group>"; };
+		B2803DB024EFA28900CDC54E /* VisualEffectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffectView.swift; sourceTree = "<group>"; };
+		B2803DB224EFA36900CDC54E /* TitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleView.swift; sourceTree = "<group>"; };
+		B2803DB424EFA45B00CDC54E /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
+		B2803DB624EFA93100CDC54E /* FavoriteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteView.swift; sourceTree = "<group>"; };
+		B2803DB824EFB09F00CDC54E /* Wildlife.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wildlife.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,10 +122,12 @@
 			isa = PBXGroup;
 			children = (
 				B2803D7124EF916300CDC54E /* HeroAnimationsApp.swift */,
-				B2803D7324EF916300CDC54E /* ContentView.swift */,
+				B2803DA524EFA07400CDC54E /* Views */,
 				B2803D7524EF916500CDC54E /* Assets.xcassets */,
 				B2803D7A24EF916500CDC54E /* Info.plist */,
+				B2803D9E24EF9AFC00CDC54E /* Extensions */,
 				B2803D7724EF916500CDC54E /* Preview Content */,
+				B2803D9C24EF918C00CDC54E /* DataItems.swift */,
 			);
 			path = HeroAnimations;
 			sourceTree = "<group>";
@@ -128,6 +156,33 @@
 				B2803D9024EF916600CDC54E /* Info.plist */,
 			);
 			path = HeroAnimationsUITests;
+			sourceTree = "<group>";
+		};
+		B2803D9E24EF9AFC00CDC54E /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				B2803D9F24EF9B1600CDC54E /* Animations.swift */,
+				B2803DA124EF9BEF00CDC54E /* CGSize+Random.swift */,
+				B2803DA324EF9E1B00CDC54E /* EnvironmentValues.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		B2803DA524EFA07400CDC54E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B2803D7324EF916300CDC54E /* ContentView.swift */,
+				B2803DB224EFA36900CDC54E /* TitleView.swift */,
+				B2803DB424EFA45B00CDC54E /* ModalView.swift */,
+				B2803DB824EFB09F00CDC54E /* Wildlife.swift */,
+				B2803DB624EFA93100CDC54E /* FavoriteView.swift */,
+				B2803DA624EFA08300CDC54E /* AnimalImage.swift */,
+				B2803DA824EFA10E00CDC54E /* RectangleToCircle.swift */,
+				B2803DAA24EFA1DC00CDC54E /* StarView.swift */,
+				B2803DAE24EFA23B00CDC54E /* BlurView.swift */,
+				B2803DB024EFA28900CDC54E /* VisualEffectView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -259,8 +314,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2803DAB24EFA1DC00CDC54E /* StarView.swift in Sources */,
 				B2803D7424EF916300CDC54E /* ContentView.swift in Sources */,
+				B2803DB924EFB09F00CDC54E /* Wildlife.swift in Sources */,
+				B2803DB724EFA93100CDC54E /* FavoriteView.swift in Sources */,
+				B2803DA424EF9E1B00CDC54E /* EnvironmentValues.swift in Sources */,
 				B2803D7224EF916300CDC54E /* HeroAnimationsApp.swift in Sources */,
+				B2803DA024EF9B1600CDC54E /* Animations.swift in Sources */,
+				B2803DA924EFA10E00CDC54E /* RectangleToCircle.swift in Sources */,
+				B2803DB124EFA28900CDC54E /* VisualEffectView.swift in Sources */,
+				B2803DA224EF9BEF00CDC54E /* CGSize+Random.swift in Sources */,
+				B2803DB524EFA45B00CDC54E /* ModalView.swift in Sources */,
+				B2803DAF24EFA23B00CDC54E /* BlurView.swift in Sources */,
+				B2803D9D24EF918C00CDC54E /* DataItems.swift in Sources */,
+				B2803DA724EFA08300CDC54E /* AnimalImage.swift in Sources */,
+				B2803DB324EFA36900CDC54E /* TitleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
